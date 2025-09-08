@@ -8,7 +8,7 @@
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange.svg)
 ![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)
 
-**The most advanced and beautiful Caesar cipher decoder with intelligent frequency analysis**
+**César encryption decoder with intelligent frequency analysis**
 
 [Features](#-features) •
 [Installation](#-installation) •
